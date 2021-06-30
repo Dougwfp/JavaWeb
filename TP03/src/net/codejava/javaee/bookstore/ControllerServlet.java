@@ -12,9 +12,9 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * ControllerServlet.java
- * This servlet acts as a page controller for the application, handling all
- * requests from the user.
- * @author www.codejava.net
+ * @author 
+ * Douglas Willian CB3005348
+ * João Vitor Gino CB3005488
  */
 public class ControllerServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;

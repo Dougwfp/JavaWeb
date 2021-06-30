@@ -2,9 +2,9 @@ package net.codejava.javaee.bookstore;
 
 /**
  * Book.java
- * This is a model class represents a book entity
- * @author www.codejava.net
- *
+ * @author 
+ * Douglas Willian CB3005348
+ * João Vitor Gino CB3005488
  */
 public class Book {
 	protected int id;

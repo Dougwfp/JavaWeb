@@ -10,11 +10,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * AbstractDAO.java
- * This DAO class provides CRUD database operations for the table book
- * in the database.
- * @author www.codejava.net
- *
+ * BookDAO.java
+ * @author 
+ * Douglas Willian CB3005348
+ * João Vitor Gino CB3005488
  */
 public class BookDAO {
 	private String jdbcURL;
